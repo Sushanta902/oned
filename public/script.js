@@ -1,10 +1,10 @@
 window.onload = function() {
     Particles.init({
       selector: '.background',
-      color : '#1C2833',
+      color : '#1f2f3f',
       connectParticles : 'true',
       minDistance : '110',
-      speed:.7,
+      speed:.9,
       sizeVariations:1,
       maxParticles:150,
 
